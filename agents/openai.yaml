@@ -1,0 +1,4 @@
+interface:
+  display_name: "关系军师"
+  short_description: "先共情再拆解最后给方案，逐步陪你练出高级情商；内核为狗头军师，先接情绪、分析关系、给出可执行策略"
+  default_prompt: "使用 $guanxi-junshi 陪我一步步梳理情绪、拆解关系，最后再给出下一步建议。"
